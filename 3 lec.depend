@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600083952 source:d:\edu\courses\embdded system\c programing\projects\3 lec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
